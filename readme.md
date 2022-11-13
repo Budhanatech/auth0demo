@@ -1,7 +1,9 @@
 To get started, you need to firstly install the dependencies for your project.
 
-```cd project_name
-```npm install
+```
+cd project_name
+npm install
+```
 
 Now that you have all the dependencies installed, then create .env and pass the auth0 variables in it.
 
