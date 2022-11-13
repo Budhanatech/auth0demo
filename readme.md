@@ -9,6 +9,8 @@ Now that you have all the dependencies installed, then create .env and pass the 
 
 now you can start the development server.
 
-pnpm run dev
+```
+npm run dev
+```
 
 This will start a development server on http://127.0.0.1:5173/. You
